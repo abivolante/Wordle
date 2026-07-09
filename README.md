@@ -21,7 +21,7 @@ The game correctly handles duplicate letters (e.g. guessing a word with two `E`s
 
 ```bash
 git clone https://github.com/abivolante/wordle.git
-cd wordle
+cd wordle/file
 python3 main.py
 ```
 
